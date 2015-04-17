@@ -1,0 +1,10 @@
+{
+    "require": {
+        "silex/silex":          "~1.2",
+
+        "symfony/dom-crawler":  "~2.6",
+        "symfony/css-selector": "~2.6",
+
+        "suin/php-rss-writer":  "~1.0"
+    }
+}
